@@ -12,6 +12,8 @@
 # Input: nums = [1, 2, 3, 4]                                                                                                                        #
 # Output: false                                                                                                                                     #
 #                                                                                                                                                   #
+# Medium article: https://nikitaashah.medium.com/arrays-and-hashing-contains-duplicate-python-programming-solution-3591951a45f9                     #
+#                                                                                                                                                   #
 #####################################################################################################################################################
 
 
