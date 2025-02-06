@@ -18,7 +18,7 @@
 # Input: nums = [5, 5], target = 10                                                                                                                 #
 # Output: [0, 1]                                                                                                                                    #
 #                                                                                                                                                   #
-# Medium article:                          #
+# Medium article: https://medium.com/@nikitaashah/arrays-and-hashing-two-sum-python-programming-solution-1af9f3aa82dc                               #
 #                                                                                                                                                   #
 #####################################################################################################################################################
 
